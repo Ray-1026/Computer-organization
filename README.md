@@ -5,5 +5,5 @@ Instructor : 李毅郎
 
 Semester : 2023 Spring
 
-## HW1
+## Lab1
 - 32-bit ALU
