@@ -1,4 +1,4 @@
-# NYCU-computer-organization
+# Computer-organization
 
 
 Instructor : 李毅郎
