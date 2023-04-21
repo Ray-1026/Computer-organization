@@ -7,3 +7,6 @@ Semester : 2023 Spring
 
 ## Lab1
 - 32-bit ALU
+
+## Lab2
+- Single Cycle CPU
