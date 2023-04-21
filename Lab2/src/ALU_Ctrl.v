@@ -37,11 +37,4 @@ always @(funct_i, ALUOp_i) begin
     endcase
 end
 
-endmodule     
-
-
-
-
-
-                    
-                    
+endmodule

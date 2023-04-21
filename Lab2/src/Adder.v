@@ -30,10 +30,3 @@ wire cout;
 assign {cout, sum_o} = src1_i+src2_i;
 
 endmodule
-
-
-
-
-
-                    
-                    

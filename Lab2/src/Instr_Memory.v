@@ -40,10 +40,3 @@ initial begin
 		
 end
 endmodule
-
-
-
-
-
-                    
-                    

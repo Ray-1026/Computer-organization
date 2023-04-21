@@ -32,6 +32,4 @@ always @(*) begin
     data_o <= (select_i) ? data1_i:data0_i;
 end
 
-endmodule      
-          
-          
+endmodule

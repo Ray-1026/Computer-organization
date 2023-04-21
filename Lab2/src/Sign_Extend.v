@@ -29,5 +29,4 @@ always @(data_i) begin
         data_o <= {16'b0000_0000_0000_0000, data_i};
 end
 
-endmodule      
-     
+endmodule
