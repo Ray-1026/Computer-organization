@@ -40,7 +40,7 @@ reg            Branch_o;
 always @(instr_op_i) begin
 	case(instr_op_i)
 		6'b000000: {RegWrite_o, ALU_op_o, ALUSrc_o, RegDst_o, Branch_o} = 7'b1010010;
-		6'b000100: {RegWrite_o, ALU_op_o, ALUSrc_o, RegDst_o, Branch_o} = 7'b00010x1;
+		6'b000100: {RegWrite_o, ALU_op_o, ALUSrc_o, Branch_o} = 6'b000101;
 		6'b001000: {RegWrite_o, ALU_op_o, ALUSrc_o, RegDst_o, Branch_o} = 7'b1000100;
 		6'b001010: {RegWrite_o, ALU_op_o, ALUSrc_o, RegDst_o, Branch_o} = 7'b1011100;
 		default: {RegWrite_o, ALU_op_o, ALUSrc_o, RegDst_o, Branch_o} = 7'bxxxxxxx;
