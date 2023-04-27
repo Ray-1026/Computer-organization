@@ -9,4 +9,8 @@ Semester : 2023 Spring
 - 32-bit ALU
 
 ## Lab2
-- Single Cycle CPU
+- Single Cycle CPU - Simple Edition
+
+## Lab3
+- Single Cycle CPU - Complete Edition
+    - R-type, I-type, and jump instructions
