@@ -14,3 +14,6 @@ Semester : 2023 Spring
 ## Lab3
 - Single Cycle CPU - Complete Edition
     - R-type, I-type, and jump instructions
+
+## Lab4
+- Pipelined CPU
