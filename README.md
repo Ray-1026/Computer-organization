@@ -17,3 +17,8 @@ Semester : 2023 Spring
 
 ## Lab4
 - Pipelined CPU
+
+## Lab5
+- Advanced Pipelined CPU
+    - Forwarding
+    - Hazard Detection
